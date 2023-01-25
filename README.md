@@ -1,4 +1,4 @@
-# <p align="center">Wingman- Team 29</p>
+# <p align="center">Wingman</p>
 
 <p align="center"><img width="10%" src="https://user-images.githubusercontent.com/52569205/207432376-8c2b3151-9cff-46eb-a5cf-3e388f8dc65b.png" /></p>
 
