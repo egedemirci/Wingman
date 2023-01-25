@@ -4,11 +4,28 @@
 
 ### Description
 
-Wingman is a web-based application that aims to make referee assignments easier by tracking referee statistics and managing the interface to assign referees all from the same system. The assignment of referees to matches is among the most debated subjects in Turkish Football. Solving this problem is going to be the main goal of this application. To make this process smoother, our application will have two primary features. Firstly, it will track and display information for each referee that works under MHK to ease the burden and stress of picking a suitable referee for upcoming matches. This information will include statistics about the referee's past decisions and reviews collected from selected independent sports reporters and retired referees. First, statistical data will include statistics such as the total number of faults, red cards, yellow cards, and penalties in the season. Using these statistics TFF members will have easy access to information that can make decision processes easier and more streamlined. Second, the app will display a rating for each referee that is collected in a different interface accessed from a separate login page. The app will have an additional portal for selected independent sports reporters and retired referees. They can log in and rate the performance of referees in each match. 
+Wingman is a web-based application that aims to make referee assignments easier by tracking referee statistics and managing the interface to assign referees all from the same system. The assignment of referees to matches is among the most debated subjects in Turkish Football. Solving this problem is going to be the main goal of this application. To make this process smoother, our application will have two primary features. Firstly, it will track and display information for each referee that works under MHK to ease the burden and stress of picking a suitable referee for upcoming matches. This information will include statistics about the referee's past decisions and reviews collected from selected independent sports reporters and retired referees. First, statistical data will include statistics such as the total number of faults, red cards, yellow cards, and penalties in the season. Using these statistics TFF members will have easy access to information that can make decision processes easier and more streamlined. Second, the app will display a rating for each referee that is collected in a different interface accessed from a separate login page. The app will have an additional portal for selected independent sports reporters and retired referees. They can log in and rate the performance of referees in each match. Using these systems TFF members will also have an idea about the tension level of the referee against
+specific teams, the performance of the referee in matches of specific teams, and a general idea about what the
+press thinks about the referee. Secondly, the app will have an interface where TFF members can make referee
+assignments for upcoming matches. In addition to using data available in the same web system, they can see
+some automated recommendations for referees to choose from based on previous reviews and other related
+parameters like tension level and performance. The idea behind the Wingman is having all this information under the same roof would
+make the referee assignment process easier and less stressful. The application uses PERN stack (PostgreSQL - Express.js - React - nodeJS).
 
-### Current Working Application
 
-You can use the current version of the application by clicking **[here](https://wingman-team29.herokuapp.com/)**.
+
+### Product Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=a204rKqxW-Y">
+    <img src="https://user-images.githubusercontent.com/52569205/214605092-ef27eae7-4b6c-48f7-af04-6811ba73a09c.png" alt="Wingman Product Video">
+  </a>
+</div>
+ 
+
+ <div align="center">
+    <img src="https://user-images.githubusercontent.com/52569205/214606884-c38d4924-01ed-4fa8-b39c-2546ac6e7ca6.png" alt="Wingman">
+</div>
 
 ## User Documentation
 
@@ -30,6 +47,10 @@ If you came across a bug, you can create a new issue by clicking on 'Bug Report'
 
 Currently there are small bugs on front-end side, [it can be seen from the issues part with label bug.](https://github.com/SU-CS308-22FA/Wingman/issues)
 
+
+ <div align="center">
+    <img src="https://user-images.githubusercontent.com/52569205/214606884-c38d4924-01ed-4fa8-b39c-2546ac6e7ca6.png" alt="Wingman">
+</div>
 
 ## Developer Documentation
 
@@ -93,3 +114,13 @@ To deploy your application to Heroku, you can follow these steps:
       * If you do not have any config vars, you should see a warning message.
     * Set the config vars by specifying the name of your environment variable in the KEY field, and its value in the VALUE field. For example, you might store the URL of your database as an environment variable.
     * After entering both the key and the value, click "Add". You are now done adding environment variables.
+
+ <div align="center">
+    <img src="https://user-images.githubusercontent.com/52569205/214606884-c38d4924-01ed-4fa8-b39c-2546ac6e7ca6.png" alt="Wingman">
+</div>
+
+
+
+ #  
+ 
+<p align="center"><img width="10%" src="https://user-images.githubusercontent.com/52569205/207432376-8c2b3151-9cff-46eb-a5cf-3e388f8dc65b.png" /></p>
